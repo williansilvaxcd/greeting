@@ -6,6 +6,7 @@ fun main() {
     list.add("Carla")
     list.add(2.520)
     list.add("Emilly")
+    list.add("Kalofte")
 
 //    list.removeLast()
 //    list.removeFirst()
